@@ -2,7 +2,8 @@
 Time Series Data Analysis based on Udemy 'Python for Time Series Data Analysis'
 
 # Time Series Analysis with Statsmodel
-The <a href='https://en.wikipedia.org/wiki/Hodrick%E2%80%93Prescott_filter'>Hodrick-Prescott filter</a> separates a time-series  ![formula][y_{t}] into a trend component $\tau_t$ and a cyclical component $c_t$
+The <a href='https://en.wikipedia.org/wiki/Hodrick%E2%80%93Prescott_filter'>Hodrick-Prescott filter</a> separates a time-series  ![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+ into a trend component $\tau_t$ and a cyclical component $c_t$
 
 $y_t = \tau_t + c_t$
 
