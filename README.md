@@ -14,3 +14,5 @@
 * [Reference based on 'Python for Time Series Data Analysis', Udemy](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/Reference)
 ### [Exercise](https://github.com/ilvnax24er/Time_Series_Data_Analysis/tree/main/Exercise)
 * Alcohol Sales
+* Energy Production
+* Daily Temperature
