@@ -16,3 +16,4 @@
 * Alcohol Sales
 * Energy Production
 * Daily Temperature
+* Macro Data
